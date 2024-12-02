@@ -1,0 +1,25 @@
+{
+    "my Instance":".MuiButton-root:eq(0)",
+    "emailOrMobile":".MuiInputBase-root  .MuiInputBase-input:eq(0)",
+    "password":".MuiInputBase-root  .MuiInputBase-input:eq(1)",
+    "signup button":".MuiButtonBase-root:eq(1)",
+    "message":".MuiPaper-root",
+    "forgot password button":".MuiTypography-root:first()",
+    "submit button":".MuiButton-label",
+    "signup":".MuiTypography-body1 .MuiTypography-root",
+    "first name":"[name='firstName']",
+    "last name":"[name='lastName']",
+    "email":"[name='email']",
+    "create password":"[name='password']",
+    "confirm password":"[name='password-confirm']",
+    "terms and conditions":"[name='user.attributes.terms_and_conditions']",
+    "squirll newsletter":"[name='user.attributes.accept_newsletter']",
+    "user signup":".MuiButton-label:first()",
+    "confirmation message":".MuiBox-root:eq(1)",
+    "shared Icon":".MuiTypography-root > .MuiIconButton-label > .MuiSvgIcon-root:eq(1)",
+    "invite Users":":nth-child(2) > .MuiButtonBase-root > .MuiButton-label",
+    "send Invite button":".MuiButton-label",
+    "admin role":"#mui-component-select-role",
+    "remove button":".MuiBox-root > .MuiButtonBase-root > .MuiButton-label:eq(1)"
+
+}
