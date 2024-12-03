@@ -1,8 +1,8 @@
-# Feature: User Management page
+Feature: User Management page
 
-#     Scenario Outline: Test adding new users to the instance
-#     Given user navigates to the home page
-#     When user clicks on the "my Instance"
+    Scenario Outline: Test adding new users to the instance
+    Given user navigates to the home page
+    When user clicks on the "my Instance"
 #     And user enters the "<email>" in the "emailOrMobile" input field
 #     And user enters the "<password>" in the "password" input field
 #     And user clicks on the "signup button"
